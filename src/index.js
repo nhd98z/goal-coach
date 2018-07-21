@@ -1,4 +1,5 @@
 // src/index.js
+// git add .; git commit -m "ok"; git push origin master; yarn build; yarn start;
 
 import React from "react";
 import ReactDOM from "react-dom";
